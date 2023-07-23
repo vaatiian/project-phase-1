@@ -17,23 +17,27 @@ I did the analyses guided by the following research questions;
 
 # Conclusion.
 Based on my findings, I was able to conclude on the following;
-![Alt text](image.png)
-1. The top three performing genres are Drama, Documentaries, and Comedy; with Drama being the most prefered to a larger population.
-![Alt text](image-1.png)
-2. The runtime of movies really did not affect the popularity or preference of the movies. This meant that the population preference was not fueled by the runtime.
 
+1. The top three performing genres are Drama, Documentaries, and Comedy; with Drama being the most prefered to a larger population.
+![Alt text](image.png)
+
+2. The runtime of movies really did not affect the popularity or preference of the movies. This meant that the population preference was not fueled by the runtime.
+![Alt text](image-1.png)
 3. High of the revenues were achieved in the summer Season this is explained by the school vacations, holidays, and increased leisure time.
-![Alt text](image-2.png)
+
 4. The highest revenues by month were achieved in May, a month before Summer showing the preparations of many for the summer season.
+![Alt text](image-2.png)
 5. Other high revenues are seen in the Month of November where we know that the customers are also getting ready for the chrismas festivities. 
 6. The revenues are extremely low in the months of January and September indicating that they are the busiest times for many customers with jobs, school, and othe things that take away leisure time.
-![Alt text](image-4.png)
+
 7. The ROI is not interfered whether the budget is increased or not. 
+![Alt text](image-4.png)
+
+8. The ROI similar to the revenues is equally affected by the release months and seasons.
 ![Alt text](image-3.png)  
 ![Alt text](image-5.png)
-8. The ROI similar to the revenues is equally affected by the release months and seasons.
-![Alt text](image-6.png)
 9. Over time, the ROI has had fluctuations with no clear trend. This could be due to many external factors with the leading being the economic conditions, changes in audience prefereces or the success of indivindual movie releases.
+![Alt text](image-6.png)
 
 # Business Recommendations.
 after my conclusions, here are some of the recomendations that I can give to the company;
