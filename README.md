@@ -1,5 +1,5 @@
 # EXPLORATORY DATA ANALYSIS FOR MOVIE INDUSTRY.
-Microsoft plans to start a new film production company, but lacks experience. Researchers researched box office genres and turned findings into valuable information for the CEO to choose movies.
+Microsoft plans to start a new film production company, but lacks experience. I researched box office genres and turned my findings into valuable information for the CEO to use while the company ventures into this space.
 
 # Project Details.
 The aim for this project was to help the organisation perform better as they get into the space. 
@@ -40,7 +40,7 @@ Based on my findings, I was able to conclude on the following;
 ![Alt text](image-6.png)
 
 # Business Recommendations.
-after my conclusions, here are some of the recomendations that I can give to the company;
+After my conclusions, here are some of the recomendations that I can give to the company;
 
 1. **Focus on Drama, Documentaries, and Comedy Genres**: As Drama is the most preferred genre among the audience and Documentaries and Comedy also perform well, consider investing more resources and efforts in producing movies in these genres. They have proven to be popular choices and are likely to attract a larger audience.
 
